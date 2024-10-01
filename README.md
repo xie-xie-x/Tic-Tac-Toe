@@ -1,27 +1,5 @@
 <a name="readme-top"></a>
 
-<!-- TABLE OF CONTENTS -->
-
-# 📗 Table of Contents
-
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [📝 License](#license)
-
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 Tic Tac Toe <a name="about-project"></a>
@@ -85,7 +63,7 @@ Local Machine, Git, Text Editor (VS Code preferably)
 
 ### Setup
 
-Checkout the project repository <a href="https://github.com/Rhaegar121/Tic-Tac-Toe">here</a>
+Checkout the project repository <a href="https://github.com/xie-xie-x/Tic-Tac-Toe">here</a>
 
 ### Install
 
@@ -106,22 +84,6 @@ Use Github pages for free and secure deployment.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-<!-- AUTHORS -->
-
-## 👥 Authors <a name="authors"></a>
-
-> Kaung Myat Kyaw (Barry).
-
-👤 **Kaung Myat Kyaw**
-
-- Portfolio: [rhbarry.me](https://rhbarry.me)
-- GitHub: [Rhaegar121](https://github.com/Rhaegar121)
-- Twitter: [Rhaegar121](https://twitter.com/Rhaegar121)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kaungmyatkyaw)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
@@ -137,14 +99,6 @@ Feel free to check the [issues page](../../issues/).
 ## ⭐️ Show your support <a name="support"></a>
 
 Give a ⭐️ if you like this project!
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-I would like to thank everyone who did show support.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
